@@ -90,7 +90,7 @@ Add screenshots of your project here:
 
 **Mouli Dhara**
 
-* GitHub: [Your GitHub Profile](https://github.com/your-username)
+* GitHub: (https://github.com/mouli1912)
 
 ## 📄 License
 
